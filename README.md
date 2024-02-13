@@ -3,4 +3,4 @@ I'll be uploading all my solutions, notes, and commentaries about all the practi
 
 Table of Contents:
 
-Leetcode 217: Contains Duplicate (easy) https://leetcode.com/problems/contains-duplicate/description/
+Leetcode 217: Contains Duplicate (easy) 
