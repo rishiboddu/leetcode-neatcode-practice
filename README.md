@@ -4,5 +4,7 @@ I'll be uploading all my solutions, notes, and commentaries about all the practi
 Table of Contents:
 
 Leetcode 1: TwoSum (easy) | https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode1.java
+
 Leetcode 217: Contains Duplicate (easy) | https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode217.java
+
 Leetcode 242: Valid Anagrams (easy) |  https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode242.java
