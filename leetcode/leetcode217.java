@@ -58,14 +58,13 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {        
         numsCopy = Arrays.copy(nums)
         Arrays.sort(numsCopy); // this is the given sorting method (timsort) but one could possibly implement a different sorting method to speed up the process (ex: quicksort)
-        for (int i = 0; i < nums.length - 1; ++i) {
-            if (nums[i] == nums[i + 1]) return true;
+        for (int i = 0; i < numsCopy.length - 1; ++i) {
+            if (numsCopy[i] == numsCopy[i + 1]) return true;
         }
         return false;
     }
 
 
-
-  // There are other implementations, some of which are even less efficient with O(n^2) runtime, so I've chosen to not include them in this page
+  // There are other implementations, some of which are equally efficient or even less efficient, so I've chosen to not include them in this page
   
 }
