@@ -39,6 +39,6 @@ class Solution {
             anagrams.put(new String(s), newInput);
         }
 
-        return new ArrayList(result.values());
+        return new ArrayList(anagrams.values());
     }
 }
