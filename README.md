@@ -1,6 +1,8 @@
 # leetcode-neetcode-practice
 Hi! My name is Rishitha Boddu and I'm an undergraduate student at UC Berkeley recruiting for various fields in tech/business (data analysis, SWE, quant, PM, etc) so I'll be uploading all my solutions, notes, and commentaries for leetcode practice problems to this repository. This is a personal repository for me to reflect on my progress in the future and continue to grow in terms of efficient programming and multi-language programming. This ReadMe serves as a main table of contents for easy navigation between my past solutions.
 
+
+
 JAVA LEETCODE
 
 Leetcode 1: TwoSum (easy) https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode1.java
