@@ -1,5 +1,5 @@
 # leetcode-neetcode-practice
-I'll be uploading all my solutions, notes, and commentaries about all the practice problems I complete for interview prep to this repository. This is a personal repository just so I can reflect in the future and continue to grow in terms of efficient programming and providing solutions in various programming languages as well.
+Hi! My name is Rishitha Boddu and I'm an undergraduate student at UC Berkeley recruiting for various fields in tech/business (data analysis, SWE, quant, PM, etc) so I'll be uploading all my solutions, notes, and commentaries for leetcode practice problems to this repository. This is a personal repository for me to reflect on my progress in the future and continue to grow in terms of efficient programming and multi-language programming.
 
 Table of Contents:
 
