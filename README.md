@@ -9,6 +9,8 @@ Leetcode 1: TwoSum (easy) https://github.com/rishiboddu/leetcode-neatcode-practi
 
 Leetcode 49: Group Anagrams (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode49.java
 
+Leetcode 191: Number of 1-Bits (easy) 
+
 Leetcode 217: Contains Duplicate (easy) https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode217.java
 
 Leetcode 242: Valid Anagrams (easy)  https://github.com/rishiboddu/leetcode-neatcode-practice/blob/main/leetcode/leetcode242.java
