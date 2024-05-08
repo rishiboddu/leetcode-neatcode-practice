@@ -21,4 +21,4 @@ Leetcode 242: Valid Anagrams (easy)  https://github.com/rishiboddu/leetcode-neat
 
 Leetcode 347: Top K Frequent Elements (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode347.java
 
-Leetcode 680: Valid Palindrom II (easy) https://github.com/rishiboddu/leetcode-neetcode-practice/edit/main/leetcode/leetcode680.java
+Leetcode 680: Valid Palindrome II (easy) https://github.com/rishiboddu/leetcode-neetcode-practice/edit/main/leetcode/leetcode680.java
