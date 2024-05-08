@@ -9,7 +9,7 @@ Leetcode 1: TwoSum (easy) https://github.com/rishiboddu/leetcode-neatcode-practi
 
 Leetcode 19: Remove Nth Node From End of List (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode19.java
 
-Leetcode 49: Group Anagrams (medium) leetcode/leetcode49.java
+Leetcode 49: Group Anagrams (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode49.java
 
 Leetcode 56: Merge Intervals (medium) leetcode/leetcode56.java
 
