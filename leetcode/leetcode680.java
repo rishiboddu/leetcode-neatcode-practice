@@ -26,6 +26,12 @@ s consists of lowercase English letters
 
 class Solution {
     public boolean validPalindrome(String s) {
+        // base case
+        if (s.length() <= 1 || s == null) {
+             return true;
+        }
+
+     
         int start = 0;
         int end = s.length() - 1;
         while (start <= end) {
