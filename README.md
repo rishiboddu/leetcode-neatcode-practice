@@ -11,7 +11,7 @@ Leetcode 19: Remove Nth Node From End of List (medium) https://github.com/rishib
 
 Leetcode 49: Group Anagrams (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode49.java
 
-Leetcode 56: Merge Intervals (medium) leetcode/leetcode56.java
+Leetcode 56: Merge Intervals (medium) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode56.java
 
 Leetcode 191: Number of 1-Bits (easy) https://github.com/rishiboddu/leetcode-neetcode-practice/blob/main/leetcode/leetcode191.java
 
